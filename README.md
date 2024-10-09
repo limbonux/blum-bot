@@ -28,15 +28,15 @@ AUTO CLAIM FOR BLUM / @blum
 # Warning
 
 All risks are borne by the user
+<hr>
 
 # Support My Work!
 
-If you like my work, you can support me through the following links:
+💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
 
-- [Indonesia] https://s.id/nusanqr (QRIS)
-- [Indonesia] https://trakteer.id/fawwazthoerif/tip
-- [Global] https://sociabuzz.com/fawwazthoerif/tribe
-- If you want to send support in another form, you can contact me via Telegram.
+TON:
+`UQATbChkxTXjNepmCOKKH9Hv5t2cnkGfQOBF-w159gJVWJGQ`
+
 
 # Available Features
 
