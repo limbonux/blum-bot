@@ -281,7 +281,7 @@ You can run the bot script 24/7 using a VPS/RDP. You can use the `screen` or `pm
 
 # Discussion
 
-If you have questions or anything else, you can ask here: [@sdsproject_chat](https://t.me/sdsproject_chat)
+If you have questions or anything else, you can ask here: [@limbonux](https://t.me/limbonux)
 
 # Questions and Answers
 
