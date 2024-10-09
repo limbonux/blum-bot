@@ -53,7 +53,7 @@ TON:
 
 # Registration
 
-Click the following link to register: [https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc](https://t.me/BlumCryptoBot/app?startapp=ref_aPYIYj1oKc)
+Click the following link to register: [https://t.me/BlumCryptoBot/app?startapp=ref_tzmlBr4mmz](https://t.me/BlumCryptoBot/app?startapp=ref_tzmlBr4mmz)
 
 # How to Use
 
